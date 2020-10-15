@@ -1,1 +1,2 @@
 # emptyrepo
+sample line
